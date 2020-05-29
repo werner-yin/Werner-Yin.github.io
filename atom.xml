@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://werner-yin.github.io/</id>
+    <id>https://werner-yin.github.io</id>
     <title>Gridea</title>
-    <updated>2020-05-29T02:31:21.502Z</updated>
+    <updated>2020-05-29T02:35:45.464Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://werner-yin.github.io/"/>
+    <link rel="alternate" href="https://werner-yin.github.io"/>
     <link rel="self" href="https://werner-yin.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
     <logo>https://werner-yin.github.io/images/avatar.png</logo>
